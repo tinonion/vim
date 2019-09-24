@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "baseUrl": "C:\\Program Files (x86)\\Oni\\resources\\app\\node_modules"
+  }
+}
